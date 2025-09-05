@@ -1,0 +1,474 @@
+Brand,Screen Size,Color,RAM,Storage,GPU,CPU,Price
+Apple,13.3,Gray,8,256.0,Integrated,Intel Core i5 13th,54490.0
+Apple,13.3,Gold,8,256.0,Integrated,Intel Core i5 13th,54490.0
+Apple,13.3,Silver,8,256.0,Integrated,Intel Core i5 13th,54490.0
+Apple,14.2,Black,24,512.0,Integrated,Intel Core i5 13th,187990.0
+Apple,13.6,Silver,16,256.0,Integrated,Intel Core i5 13th,93990.0
+ASUS,15.6,SIlver,16,16.0,Integrated,AMD Ryzen 7 Thin,44990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,Intel Core i5 12th,53890.0
+Lenovo,15.6,Silver,16,512.0,Integrated,AMD Ryzen 5 Thin,41990.0
+acer,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen 5 Gaming,61999.0
+HP,15.6,Blue,16,1000.0,NVIDIA GeForce,AMD Ryzen 9 Gaming,98990.0
+Dell,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,55990.0
+Lenovo,14.0,Grey,16,1000.0,Integrated,Intel Core i5 13th,80990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,AMD Ryzen 3 7320U,32990.0
+Lenovo,14.0,Silver,16,512.0,Integrated,AMD Ryzen 7 Touchscreen,62490.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i3 13th,35999.0
+Lenovo,15.3,Grey,16,512.0,Integrated,Intel Core i7 13th,66990.0
+Apple,13.6,Blue,16,256.0,Integrated,Intel Core i5 13th,93990.0
+DELL,15.6,Silver,16,1000.0,Integrated,Intel Core i5 13th,61990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core i3 12th,32990.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core i5 13th,59990.0
+Lenovo,15.3,Grey,16,512.0,Integrated,Intel Core i5 13th,60990.0
+Apple,13.6,Silver,16,256.0,Integrated,Intel Core i5 13th,93990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,56499.0
+Apple,14.2,Black,16,512.0,Integrated,Intel Core i5 13th,159990.0
+Apple,13.6,Silver,16,256.0,Integrated,Intel Core i5 13th,80990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core i5 12th,72490.0
+Lenovo,14.0,Grey,16,512.0,Integrated,Intel Core i5 13th,70990.0
+Apple,13.6,Silver,16,512.0,Integrated,Intel Core i5 13th,112990.0
+Lenovo,13.3,Grey,16,512.0,Integrated,AMD Ryzen 7 Thin,62990.0
+ASUS,14.0,Black,8,512.0,Integrated,AMD Ryzen 3 7320U,29990.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,65990.0
+Lenovo,15.6,Grey,12,512.0,NVIDIA GeForce,Intel Core i5 12th,63990.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,39999.0
+HP,14.0,Silver,16,512.0,Integrated,AMD Ryzen 5 Thin,43499.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen 5 Gaming,64990.0
+HP,15.6,Silver,8,512.0,Integrated,AMD Ryzen 5 7520U,39990.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core i5 13th,61990.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core i5 13th,54990.0
+Lenovo,14.0,Grey,16,1000.0,Integrated,Intel Core i5 13th,67990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen 5 Gaming,68490.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,Intel Core i5 13th,91290.0
+Apple,13.6,Blue,16,512.0,Integrated,Intel Core i5 13th,112990.0
+HP,15.6,Silver,16,512.0,Integrated,AMD Ryzen 7 Thin,51490.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,56499.0
+HP,15.6,Silver,16,512.0,NVIDIA Geforce,Intel Core i5 13th,69990.0
+ASUS,16.0,Gray,16,512.0,NVIDIA GeForce,Intel Core i5 13th,69990.0
+Lenovo,15.6,Grey,12,512.0,NVIDIA GeForce,AMD Ryzen 5 Gaming,62990.0
+acer,15.6,Gray,16,512.0,Integrated,AMD Ryzen 7 Laptop,45999.0
+ASUS,15.6,Black,16,512.0,Integrated,AMD Ryzen 5 Thin,39990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i3 13th,36999.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core i5 13th,76990.0
+DELL,15.6,Black,8,512.0,Integrated,Intel Core i3 13th,38990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,78990.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core i5 13th,52490.0
+Apple,13.6,Silver,16,256.0,Integrated,Intel Core i5 13th,93990.0
+Lenovo,16.0,Grey,16,512.0,Integrated,Intel Core i5 13th,69990.0
+Lenovo,14.0,Grey,24,1000.0,Integrated,Intel Core i5 13th,85990.0
+HP,15.6,Silver,12,512.0,Integrated,Intel Core i3 13th,37499.0
+ASUS,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,75490.0
+HP,15.6,Blue,16,512.0,Intel Iris Xe,Intel Core i5 13th,69499.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core i7 13th,122990.0
+acer,14.0,Silver,16,1000.0,Integrated,Intel Core i5 13th,89999.0
+DELL,13.3,Silver,16,512.0,Integrated,Intel Core i5 13th,76490.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,Intel Core i5 13th,64990.0
+HP,15.6,SIlver,16,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,61490.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,62990.0
+Lenovo,15.6,Silver,8,512.0,Integrated,AMD Ryzen 5 Thin,38990.0
+Apple,13.6,Silver,16,512.0,Integrated,Intel Core i5 13th,112990.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,57999.0
+MSI,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core i7 13th,74990.0
+ASUS,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core i5 13th,78990.0
+Acer,14.0,Gray,16,512.0,Integrated,Intel Core i5 13th,59990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,68990.0
+ASUS,15.6,Silver,16,512.0,Integrated,Intel Core i3 13th,41990.0
+HP,14.0,Silver,8,512.0,Integrated,Intel Core i3 13th,36990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,77999.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core i7 13th,70990.0
+ASUS,15.6,Silver,8,512.0,Integrated,Intel Core i3 13th,38990.0
+HP,14.0,Blue,16,512.0,Integrated,Intel Core i5 13th,96999.0
+ASUS,16.0,Gray,16,512.0,NVIDIA GeForce,Intel Core i5 13th,85990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen 5 Gaming,65990.0
+HP,15.6,Silver,8,512.0,Integrated,AMD Ryzen 3 Thin,31499.0
+HP,16.0,Silver,16,1000.0,Integrated,Intel Core i5 13th,71990.0
+Apple,13.6,Silver,16,512.0,Integrated,Intel Core i5 13th,112990.0
+Apple,13.6,Silver,16,512.0,Integrated,Intel Core i5 13th,112990.0
+acer,15.6,Gray,16,512.0,Integrated,AMD Ryzen 5 Laptop,41999.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core i5 13th,71990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen 5 Gaming,58490.0
+Lenovo,14.0,Grey,32,1000.0,Integrated,Intel Core i5 13th,112990.0
+HP,16.0,Black,24,1000.0,NVIDIA GeForce,Intel Core i7 14th,139990.0
+acer,15.6,Gray,8,512.0,Integrated,Intel Core i3 13th,35990.0
+DELL,15.6,Gray,16,1000.0,Integrated,Intel Core i7 13th,97990.0
+HP,14.0,Silver,8,512.0,Integrated,AMD Ryzen 3 Thin,32499.0
+HP,14.0,Blue,32,1000.0,Integrated,Intel Core i5 13th,145999.0
+HP,16.0,Silver,16,512.0,Integrated,AMD Ryzen 5 Thin,58999.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core i3 13th,39990.0
+DELL,15.6,Black,8,512.0,Integrated,Intel Core i5 13th,54299.0
+acer,15.6,Gray,8,512.0,Integrated,AMD Ryzen 3 Laptop,31999.0
+Lenovo,14.0,Grey,8,512.0,Integrated,Intel Core i3 13th,38990.0
+Apple,13.6,Silver,16,256.0,Integrated,Intel Core i5 13th,80990.0
+Lenovo,15.6,Silver,8,512.0,Integrated,Intel Core i3 13th,39990.0
+ASUS,14.0,Gray,16,512.0,Integrated,Intel Core i5 13th,86990.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,55999.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,67990.0
+ASUS,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core i5 13th,109990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core i5 13th,81290.0
+ASUS,14.0,Blue,16,1000.0,Integrated,Intel Core i5 13th,98990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen 7 Thin,48990.0
+ASUS,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,80990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,104999.0
+HP,16.0,Silver,16,512.0,Integrated,Intel Core i5 13th,79999.0
+ASUS,14.0,Gray,16,512.0,Integrated,Intel Core i5 13th,101990.0
+Lenovo,16.0,Grey,16,512.0,Integrated,Intel Core i5 13th,64990.0
+Dell,14.0,Blue,16,512.0,Integrated,Intel Core i5 13th,81990.0
+Lenovo,14.0,Grey,32,1000.0,Integrated,Intel Core i5 13th,134990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,64990.0
+HP,14.0,Blue,16,512.0,Integrated,Intel Core i5 13th,114999.0
+ASUS,15.6,Blue,8,512.0,Integrated,Intel Core i3 13th,42990.0
+HP,13.3,Silver,16,512.0,Integrated,AMD Ryzen 5 Thin,78999.0
+HP,16.0,Silver,16,512.0,Integrated,Intel Core i5 13th,70990.0
+Lenovo,14.0,Silver,32,1000.0,Integrated,Intel Core i5 13th,136990.0
+ASUS,14.0,Blue,32,1000.0,Integrated,Intel Core i5 13th,130990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core i3 13th,39990.0
+Lenovo,14.0,Grey,16,1000.0,Integrated,Intel Core i5 13th,103990.0
+Lenovo,14.0,Silver,16,1000.0,Integrated,Intel Core i5 13th,108990.0
+Apple,13.6,Silver,24,512.0,Integrated,Intel Core i5 13th,131990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen 7 Thin,47990.0
+HP,15.6,Silver,8,512.0,Integrated,AMD Ryzen 3 Thin,31490.0
+HP,16.0,Silver,16,512.0,Integrated,Intel Core i5 13th,78500.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,91990.0
+Lenovo,14.5,Blue,32,1000.0,Integrated,Intel Core i5 13th,93990.0
+Apple,13.6,Grey,8,256.0,Integrated,Intel Core i5 13th,85994.0
+DELL,14.0,Blue,16,1000.0,Integrated,Intel Core i5 13th,92990.0
+Apple,13.6,Silver,8,256.0,Integrated,Intel Core i5 13th,85994.0
+Apple,16.2,Black,36,1000.0,Integrated,Intel Core i5 13th,289994.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,Intel Core i7 12th,71490.0
+Apple,14.2,Black,36,1000.0,Integrated,Intel Core i5 13th,259994.0
+ASUS,15.6,Silver,16,1000.0,Integrated,AMD Ryzen 7 5825U,48990.0
+DELL,15.6,Silver,16,512.0,Integrated,AMD Ryzen 5 Thin,45490.0
+HP,15.6,Silver,16,512.0,Integrated,AMD Ryzen 5 Thin,45990.0
+Apple,15.3,Silver,16,256.0,Integrated,Intel Core i5 13th,117490.0
+Apple,13.6,Silver,8,512.0,Integrated,Intel Core i5 13th,89994.0
+HP,15.6,Silver,24,1000.0,NVIDIA GeForce,Intel Core i7 13th,104990.0
+MSI,15.6,Black,16,1000.0,NVIDIA GeForce,Intel Core i5 14th,134990.0
+SAMSUNG,13.3,Grey,16,512.0,Integrated,Intel Core i5 13th,94990.0
+ASUS,14.0,Black,16,512.0,Radeon Graphics,AMD Ryzen 5 7520U,39990.0
+Apple,13.6,Silver,8,512.0,Integrated,Intel Core i5 13th,95994.0
+Apple,13.6,Silver,8,512.0,Integrated,Intel Core i5 13th,95994.0
+SAMSUNG,14.0,Gray,16,512.0,Integrated,Intel Core i5 13th,131990.0
+acer,15.6,Grey,16,512.0,Integrated,AMD Ryzen 5 7430U,42990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i5 13th,55994.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,Intel Core i5 13th,63990.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core i7 14th,144990.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core i7 13th,84990.0
+HP,14.0,Silver,8,512.0,Integrated,Intel Core i5 13th,32499.0
+HP,14.0,Silver,8,512.0,Integrated,AMD Ryzen 5 7520U,39499.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,Intel Core i7 13th,126490.0
+Apple,15.3,Silver,16,256.0,Integrated,Intel Core i5 13th,104994.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core i5 13th,72990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i3 12th,36490.0
+Apple,13.6,Blue,24,512.0,Integrated,Intel Core i5 13th,131990.0
+Apple,13.6,Silver,24,512.0,Integrated,Intel Core i5 13th,131990.0
+SAMSUNG,13.3,Grey,16,512.0,Integrated,Intel Core i5 13th,102990.0
+HP,15.6,Blue,16,4.0,NVIDIA GeForce,Intel Core i5 12th,63990.0
+MSI,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core i5 13th,66990.0
+Lenovo,15.6,Grey,12,512.0,NVIDIA GeForce,Intel Core i5 12th,63490.0
+MSI,15.6,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen 5 Gaming,69990.0
+ASUS,15.6,Silver,8,512.0,Integrated,Intel Core i3 13th,34990.0
+Apple,14.2,Silver,8,1000.0,Integrated,Intel Core i5 13th,142994.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,76990.0
+Microsoft,13.8,Silver,16,256.0,Integrated,Intel Core i5 13th,113990.0
+MSI,15.6,Black,16,512.0,Integrated,Intel Core i7 13th,64990.0
+SAMSUNG,15.5,Gray,16,512.0,Integrated,Intel Core i5 13th,122990.0
+ASUS,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core i5 13th,119990.0
+MSI,14.0,Gray,16,512.0,Integrated,Intel Core i5 13th,95990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i5 13th,56899.0
+acer,15.6,Black,16,512.0,NVIDIA GeForce,Intel Core i5 13th,82990.0
+acer,15.6,Gray,8,512.0,Integrated,Intel Core i5 13th,30990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i5 12th,50499.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core i5 13th,119990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,Intel Core i7 13th,66490.0
+HP,16.1,Silver,16,512.0,NVIDIA GeForce,Intel Core i5 14th,78990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen 5 5600H,59990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,87999.0
+Apple,14.2,Black,36,1000.0,Integrated,Intel Core i5 13th,300990.0
+Apple,15.3,Silver,16,512.0,Integrated,Intel Core i5 13th,119994.0
+Dell,16.0,Blue,16,512.0,Integrated,Intel Core i5 13th,69990.0
+HP,15.6,Blue,8,512.0,Radeon RX,AMD Ryzen 5,50990.0
+Apple,15.3,Grey,8,512.0,Integrated,Intel Core i5 13th,123994.0
+Apple,15.3,Grey,8,512.0,Integrated,Intel Core i5 13th,123994.0
+Apple,14.2,Grey,8,1000.0,Integrated,Intel Core i5 13th,142994.0
+Microsoft,13.8,Black,32,1000.0,Integrated,Intel Core i5 13th,202990.0
+MSI,15.6,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,77990.0
+ASUS,14.0,Blue,32,1000.0,Integrated,Intel Core i5 13th,120990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i3 13th,41490.0
+Apple,15.3,Silver,8,256.0,Integrated,Intel Core i5 13th,99994.0
+SAMSUNG,15.9,Gray,32,1000.0,Integrated,Intel Core i5 13th,195990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core i5 13th,38490.0
+Apple,15.3,Silver,8,256.0,Integrated,Intel Core i5 13th,99994.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,72990.0
+Apple,15.0,Silver,8,256.0,Integrated,Intel Core i5 13th,99994.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i5 12th,53490.0
+Apple,14.2,Black,18,1000.0,Integrated,Intel Core i5 13th,194994.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core i3 12th,39490.0
+DELL,15.6,Black,8,512.0,Integrated,AMD Ryzen 5 Thin,41990.0
+acer,14.5,Black,16,1000.0,NVIDIA Geforce,Intel Core i5 13th,139999.0
+ASUS,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,58990.0
+ASUS,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core i5 13th,102990.0
+Acer,16.0,Black,16,1000.0,NVIDIA GeForce,Intel Core i5 13th,160190.0
+ASUS,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,74990.0
+Apple,15.3,Grey,8,256.0,Integrated,Intel Core i5 13th,99994.0
+SAMSUNG,13.3,Grey,16,512.0,Integrated,Intel Core i5 13th,117990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,62990.0
+Lenovo,15.6,Grey,8,256.0,Integrated,Intel Core i5 13th,25990.0
+acer,14.0,Blue,16,512.0,Integrated,Intel Core i5 13th,89990.0
+MSI,15.6,Black,16,512.0,Integrated,Intel Core i9 13th,74990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i3 12th,36990.0
+DELL,14.0,Blue,16,512.0,Integrated,AMD Ryzen 5 8540,61990.0
+Lenovo,14.0,Grey,16,1000.0,Integrated,Intel Core i5 13th,68990.0
+DELL,15.6,Grey,8,8.0,Integrated,Intel Core i3 12th,37990.0
+MSI,15.6,Black,16,512.0,NVIDIA GeForce,Intel Core i5 14th,114990.0
+Microsoft,13.8,Silver,16,512.0,Integrated,Intel Core i5 13th,131990.0
+Apple,15.0,Silver,8,512.0,Integrated,Intel Core i5 13th,114994.0
+Lenovo,14.0,Blue,8,512.0,Integrated,Intel Core i3 12th,39499.0
+Apple,15.3,Silver,8,512.0,Integrated,Intel Core i5 13th,123994.0
+Apple,16.2,Black,18,512.0,Integrated,Intel Core i5 13th,189994.0
+Microsoft,15.0,Black,16,1000.0,Integrated,Intel Core i5 13th,178990.0
+Microsoft,15.0,Black,16,512.0,Integrated,Intel Core i5 13th,159990.0
+Microsoft,13.8,Silver,16,512.0,Integrated,Intel Core i5 13th,150990.0
+acer,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,79990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,77990.0
+Apple,15.3,Silver,8,512.0,Integrated,Intel Core i5 13th,123994.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,65994.0
+Microsoft,13.8,Black,16,1000.0,Integrated,Intel Core i5 13th,170990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen 5 Thin,45790.0
+SAMSUNG,14.0,Gray,16,512.0,Integrated,Intel Core i5 13th,139990.0
+Apple,15.3,Silver,8,512.0,Integrated,Intel Core i5 13th,123994.0
+Apple,13.3,Grey,8,256.0,Integrated,Intel Core i5 13th,80994.0
+Apple,16.2,Black,36,512.0,Integrated,Intel Core i5 13th,239994.0
+Microsoft,15.0,Silver,16,256.0,Integrated,Intel Core i5 13th,139990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i3 12th,37990.0
+Apple,15.3,Silver,16,256.0,Integrated,Intel Core i5 13th,117490.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,84990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,92990.0
+ASUS,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,65990.0
+ASUS,15.6,Gray,16,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,82990.0
+ASUS,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,62990.0
+HP,16.1,Black,16,1000.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,107990.0
+HP,15.6,Silver,16,512.0,Integrated,AMD Ryzen 5 Thin,43499.0
+ASUS,15.6,Blue,16,512.0,Integrated,Intel Core i5 13th,55990.0
+ASUS,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core i7 13th,92990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,70990.0
+Lenovo,14.0,Grey,32,1000.0,Integrated,Intel Core i5 13th,112990.0
+HP,14.0,Blue,16,512.0,Integrated,Intel Core i5 13th,97999.0
+ASUS,15.6,Gray,16,1000.0,NVIDIA GeForce,Intel Core i7 13th,104990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA Geforce,Intel Core i5 13th,88490.0
+DELL,15.6,Silver,16,512.0,Integrated,Intel Core i7 13th,70990.0
+ASUS,14.0,Silver,8,512.0,Integrated,AMD Ryzen 5 7520U,35990.0
+Dell,14.0,Blue,8,512.0,Integrated,Intel Core i3 13th,40990.0
+DELL,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,77990.0
+ASUS,15.6,Silver,16,1000.0,Integrated,Intel Core i5 13th,71990.0
+HP,14.0,Silver,16,1000.0,Integrated,Intel Core i5 13th,71990.0
+ASUS,15.6,Silver,8,512.0,Integrated,Intel Core i5 13th,50990.0
+HP,14.0,Blue,16,512.0,Integrated,Intel Core i5 13th,104999.0
+Apple,14.2,Silver,24,512.0,Integrated,Intel Core i5 13th,187990.0
+Apple,15.3,Silver,16,256.0,Integrated,Intel Core i5 13th,104994.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,54999.0
+acer,15.6,Silver,8,512.0,Integrated,Intel Core i5 13th,25990.0
+HP,15.6,Silver,8,512.0,NVIDIA GeForce,Intel Core i5 13th,59000.0
+Lenovo,15.6,Black,8,512.0,NVIDIA GeForce,AMD Ryzen 7,59990.0
+ASUS,17.0,Black,16,512.0,NVIDIA GeForce,Intel Core i5 11th,50990.0
+DELL,14.0,Blue,16,512.0,Integrated,AMD Ryzen 7 8840U 8th Gen,65990.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core i7 13th,89990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core i5 13th,32990.0
+acer,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core i7 14th,115990.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core i7 14th,159990.0
+Apple,15.3,Blue,16,512.0,Integrated,Intel Core i5 13th,136490.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen 5 Thin,41990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,114990.0
+Apple,15.3,Silver,16,512.0,Integrated,Intel Core i5 13th,136490.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core i5 13th,24990.0
+ASUS,14.0,Black,16,512.0,Integrated,AMD Ryzen 5 Thin,39990.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core i5 13th,189990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,72990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core i5 13th,79490.0
+Apple,13.6,Silver,24,512.0,Integrated,Intel Core i5 13th,109994.0
+Apple,15.3,Silver,16,512.0,Integrated,Intel Core i5 13th,136490.0
+ASUS,14.0,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen 9 Gaming,184990.0
+Apple,15.3,Blue,24,512.0,Integrated,Intel Core i5 13th,155490.0
+ASUS,14.0,Silver,8,512.0,Integrated,AMD Ryzen 5 7520U 7th Gen,35990.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core i5 12th,53990.0
+HP,16.1,Blue,16,1000.0,Integrated,AMD Ryzen 7 Laptop,78990.0
+ASUS,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core i7 14th,179990.0
+acer,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,85990.0
+DELL,16.0,Silver,16,1000.0,NVIDIA GeForce,Intel Core i5 13th,132399.0
+MSI,15.6,Black,16,512.0,NVIDIA GeForce,Intel Core i7 13th,114990.0
+MSI,15.6,Black,16,512.0,NVIDIA GeForce,Intel Core i5 13th,119990.0
+HP,15.6,Silver,16,512.0,Integrated,AMD Ryzen 5 Laptop,42990.0
+MSI,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core i9 14th,158990.0
+HP,15.6,Blue,16,1000.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,84990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,Intel Core i5 13th,87990.0
+Lenovo,15.6,gray,16,1000.0,NVIDIA GeForce,Intel Core i7 11th,196290.0
+acer,14.0,Silver,8,512.0,Integrated,Intel Core i3 Touchscreen,41990.0
+Apple,14.2,Black,16,1000.0,Integrated,Intel Core i5 13th,178990.0
+Apple,13.6,Silver,8,256.0,Integrated,Intel Core i5 13th,74994.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen 5 Gaming,68490.0
+Apple,13.6,Silver,8,256.0,Integrated,Intel Core i5 13th,85994.0
+Dell,14.0,Grey,16,512.0,Integrated,Intel Core i5 13th,95999.0
+HP,15.6,Silver,24,1000.0,NVIDIA GeForce,AMD Ryzen 7 Gaming,101990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,61990.0
+Lenovo,14.0,Grey,8,512.0,Integrated,Intel Core i3 12th,53990.0
+Apple,16.2,Black,36,1000.0,Integrated,Intel Core i5 13th,328990.0
+DELL,16.0,Silver,16,1000.0,NVIDIA GeForce,Intel Core i5 13th,137599.0
+HP,14.0,Gray,16,1000.0,Integrated,Intel Core i5 13th,172999.0
+Lenovo,15.6,Grey,8,256.0,Integrated,Intel Core i5 13th,25990.0
+Lenovo,14.0,Silver,16,1000.0,Integrated,Intel Core i5 13th,82990.0
+Dell,14.0,Blue,16,512.0,Integrated,Intel Core i5 13th,79490.0
+MSI,15.6,Black,16,512.0,Integrated,Intel Core i5 13th,49990.0
+DELL,16.0,Silver,16,1000.0,NVIDIA GeForce,Intel Core i5 13th,176990.0
+HP,15.6,Blue,8,512.0,NVIDIA GeForce,Intel Core i5 12th,55990.0
+acer,14.0,Gold,8,512.0,Integrated,AMD Ryzen 3 Thin,28990.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core i5 12th,52990.0
+Lenovo,14.0,Grey,16,1000.0,Intel Iris Xe,Intel Core i5 13th,83990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core i5 12th,70990.0
+Lenovo,16.0,Grey,16,1000.0,Intel Iris Xe,Intel Core i5 13th,72990.0
+Lenovo,16.0,Grey,16,1000.0,Integrated,Intel Core i5 12th,65490.0
+ASUS,14.0,Blue,16,512.0,Integrated,Intel Core i5 13th,69990.0
+ASUS,14.0,Gray,16,512.0,Integrated,Intel Core i5 13th,86990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,Intel Core i5 12th,66990.0
+ASUS,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core i5 11th,74990.0
+Lenovo,14.0,Grey,16,1000.0,Intel Iris Xe,Intel Core i5 13th,85990.0
+Apple,14.2,Black,24,1000.0,Integrated,Intel Core i5 13th,197490.0
+Lenovo,14.5,Blue,32,1000.0,Integrated,Intel Core i5 13th,105990.0
+ASUS,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core i5 13th,219990.0
+Dell,15.6,Gray,16,1000.0,NVIDIA GeForce,Intel Core i7 13th,130490.0
+Apple,16.2,Silver,48,1000.0,Integrated,Intel Core i5 13th,375990.0
+Lenovo,14.0,Grey,8,512.0,Integrated,AMD Ryzen 3 7320U,32990.0
+Avita,14.1,Black,4,128.0,Integrated,Intel Core i5 13th,16984.0
+Apple,16.2,Black,24,512.0,Integrated,Intel Core i5 13th,234990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core i3 12th,34790.0
+HP,15.6,Silver,8,512.0,Radeon Graphics,AMD Ryzen 5,39490.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core i5 12th,59990.0
+Acer,14.0,Silver,16,512.0,Integrated,AMD Ryzen 7 7730U,49999.0
+Apple,13.6,Silver,8,256.0,Integrated,Intel Core i5 13th,85994.0
+MSI,15.6,Black,16,1000.0,NVIDIA GeForce,Intel Core i5 13th,125990.0
+ASUS,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core i5 12th,69990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core i5 13th,78990.0
+MSI,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen 9 8945HS,138790.0
+MSI,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core i5 13th,229990.0
+Apple,16.2,Black,48,512.0,Integrated,Intel Core i5 13th,272990.0
+Apple,15.3,Silver,24,512.0,Integrated,Intel Core i5 13th,155490.0
+HP,14.0,Silver,8,512.0,Integrated,Intel Core i5 13th,68999.0
+DELL,13.4,Silver,16,512.0,Integrated,Intel Core i5 13th,168899.0
+DELL,15.6,Black,16,512.0,Integrated,AMD Ryzen 7 5th,47990.0
+ASUS,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,99990.0
+DELL,15.6,Gray,8,512.0,NVIDIA GeForce,Intel Core i5 13th,73990.0
+ASUS,16.0,Gray,32,2000.0,NVIDIA GeForce,Intel Core i5 13th,359990.0
+Apple,14.2,Grey,16,1000.0,Integrated,Intel Core i5 13th,149994.0
+DELL,15.6,Black,8,512.0,Integrated,AMD Ryzen 5 5th,39990.0
+Apple,15.3,Silver,16,512.0,Integrated,Intel Core i5 13th,136490.0
+ASUS,16.0,Black,32,2000.0,NVIDIA GeForce,Intel Core i5 13th,424990.0
+HP,13.3,Silver,16,512.0,Integrated,AMD Ryzen 7,93999.0
+ASUS,13.3,Blue,16,1000.0,Integrated,Intel Core i7 13th,105990.0
+Apple,14.2,Silver,16,512.0,Integrated,Intel Core i5 13th,159990.0
+MSI,16.0,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen 9 Gaming,199990.0
+Lenovo,15.6,Grey,8,512.0,Radeon 610M,AMD Ryzen 5,42990.0
+Lenovo,14.0,Grey,24,1000.0,Integrated,Intel Core i5 13th,85990.0
+Apple,16.2,Silver,36,512.0,Integrated,Intel Core i5 13th,239994.0
+Apple,13.6,Silver,8,256.0,Integrated,Intel Core i5 13th,74994.0
+MSI,15.6,Black,16,1000.0,NVIDIA GeForce,Intel Core i5 13th,117990.0
+acer,14.0,Silver,16,512.0,Integrated,Intel Core i5 13th,79990.0
+Apple,14.2,Black,24,1000.0,Integrated,Intel Core i5 13th,225990.0
+HP,16.0,Blue,32,1000.0,Integrated,Intel Core i5 13th,211999.0
+SAMSUNG,15.9,Gray,16,512.0,Integrated,Intel Core i5 13th,163990.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen 9 Gaming,229990.0
+Apple,13.6,Silver,16,256.0,Integrated,Intel Core i5 13th,85994.0
+Lenovo,15.6,Grey,8,512.0,Integrated,AMD Ryzen 5,37990.0
+Lenovo,15.6,Grey,8,256.0,Integrated,Intel Core i5 13th,40490.0
+Apple,13.6,Grey,8,512.0,Integrated,Intel Core i5 13th,89994.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen 5 7520U,46490.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,87990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,AMD Ryzen 3 Laptop,39990.0
+Apple,15.3,Silver,24,512.0,Integrated,Intel Core i5 13th,129994.0
+SAMSUNG,15.6,Gray,16,1000.0,Integrated,Intel Core i5 13th,103990.0
+DELL,15.6,Black,8,512.0,Integrated,AMD Ryzen 3 7320U,32990.0
+Apple,13.6,Grey,8,512.0,Integrated,Intel Core i5 13th,95994.0
+Apple,15.3,Silver,8,256.0,Integrated,Intel Core i5 13th,99994.0
+ASUS,14.0,Gray,16,512.0,Integrated,Intel Core i5 13th,80990.0
+Apple,14.2,Silver,36,1000.0,Integrated,Intel Core i5 13th,259994.0
+Apple,14.2,Silver,24,1000.0,Integrated,Intel Core i5 13th,197490.0
+Apple,16.2,Silver,36,1000.0,Integrated,Intel Core i5 13th,289994.0
+Apple,15.3,Grey,16,256.0,Integrated,Intel Core i5 13th,104994.0
+Lenovo,15.6,Grey,8,256.0,Integrated,Intel Core i5 13th,25990.0
+Apple,14.2,Silver,36,1000.0,Integrated,Intel Core i5 13th,300990.0
+Apple,14.2,Silver,24,1000.0,Integrated,Intel Core i5 13th,225990.0
+Apple,13.6,Silver,8,512.0,Integrated,Intel Core i5 13th,95994.0
+HP,14.0,Blue,32,1000.0,Integrated,Intel Core i5 13th,141990.0
+HP,14.0,Gray,32,1000.0,Integrated,Intel Core i5 13th,180999.0
+Apple,15.3,Silver,24,512.0,Integrated,Intel Core i5 13th,155490.0
+HP,14.0,Silver,8,512.0,Integrated,Intel Core i3 12th,37990.0
+ASUS,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core i5 13th,259990.0
+HP,14.0,Silver,16,1000.0,Integrated,Intel Core i5 13th,139999.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,44990.0
+ASUS,16.0,Black,32,2000.0,NVIDIA GeForce,Intel Core i5 13th,379990.0
+Apple,13.6,Silver,8,512.0,Integrated,Intel Core i5 13th,95994.0
+Microsoft,13.8,Black,16,512.0,Integrated,Intel Core i5 13th,137990.0
+Apple,13.6,Silver,24,512.0,Integrated,Intel Core i5 13th,109994.0
+Microsoft,15.0,Silver,8,256.0,Intel Iris Xe,Intel Core i7 12th,134990.0
+ASUS,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core i5 13th,299990.0
+Apple,13.6,Silver,8,512.0,Integrated,Intel Core i5 13th,89994.0
+Dell,14.0,Blue,16,512.0,Integrated,Intel Core i5 13th,120599.0
+ASUS,14.0,Gray,32,2000.0,NVIDIA GeForce,Intel Core i5 13th,279990.0
+Microsoft,13.8,Black,16,512.0,Integrated,Intel Core i5 13th,150990.0
+MSI,15.6,Black,16,512.0,Integrated,AMD Ryzen 5 Thin,49990.0
+Apple,16.2,Silver,48,1000.0,Integrated,Intel Core i5 13th,329994.0
+Apple,16.2,Silver,48,512.0,Integrated,Intel Core i5 13th,272990.0
+MSI,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core i7 13th,74990.0
+Apple,13.6,Grey,24,512.0,Integrated,Intel Core i5 13th,109994.0
+Apple,15.3,Silver,16,256.0,Integrated,Intel Core i5 13th,117490.0
+Apple,15.3,Silver,24,512.0,Integrated,Intel Core i5 13th,129994.0
+Apple,14.2,Silver,16,1000.0,Integrated,Intel Core i5 13th,178990.0
+SAMSUNG,15.9,Gray,16,512.0,Integrated,Intel Core i5 13th,149990.0
+SAMSUNG,13.3,Silver,16,1000.0,Intel Iris Xe,Intel Core i5 13th,133990.0
+Apple,16.2,Black,48,1000.0,Integrated,Intel Core i5 13th,375990.0
+DELL,14.0,Silver,8,1000.0,Intel Iris Xe,Intel Core i5 13th,68790.0
+Apple,15.3,Silver,24,512.0,Integrated,Intel Core i5 13th,155490.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,122990.0
+Microsoft,13.8,Silver,16,512.0,Integrated,Intel Core i5 13th,137990.0
+ASUS,14.0,Black,8,512.0,Integrated,Intel Core i5 13th,29990.0
+Microsoft,15.0,Black,16,512.0,Intel Iris Xe,Intel Core i7 12th,182990.0
+SAMSUNG,15.5,Gray,32,1000.0,Integrated,Intel Core i5 13th,154990.0
+SAMSUNG,15.9,Gray,32,1000.0,Integrated,Intel Core i5 13th,181990.0
+DELL,13.4,Silver,32,1000.0,Integrated,Intel Core i5 13th,200499.0
+DELL,14.5,Silver,32,1000.0,Integrated,Intel Core i5 13th,257999.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,122990.0
+Microsoft,13.5,Black,16,512.0,Intel Iris Xe,Intel Core i7 12th,172990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core i3 13th,47190.0
+Apple,16.2,Silver,36,1000.0,Integrated,Intel Core i5 13th,328990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core i5 13th,114990.0
+Lenovo,13.3,Silver,16,1000.0,Intel Iris Xe,Intel Core i7 13th,217790.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core i3 12th,39790.0
+Lenovo,15.6,Grey,8,512.0,Integrated,AMD Ryzen 3 7320U,36490.0
+MSI,15.6,Black,16,512.0,Integrated,AMD Ryzen 7 Thin,59990.0
+Dell,14.0,Blue,16,1000.0,Integrated,Intel Core i5 13th,120599.0
+Dell,14.0,Blue,16,1000.0,Integrated,Intel Core i5 13th,113499.0
+Apple,13.6,Silver,24,512.0,Integrated,Intel Core i5 13th,131990.0
+Microsoft,13.5,Silver,8,256.0,Intel Iris Xe,Intel Core i5 12th,103990.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,49990.0
+DELL,14.5,Silver,16,1000.0,Integrated,Intel Core i5 13th,211099.0
+HP,13.3,Silver,16,512.0,Integrated,AMD Ryzen 5,87999.0
+MSI,16.0,Gray,16,512.0,Integrated,Intel Core i5 13th,124990.0
+Apple,14.2,Silver,8,512.0,Integrated,Intel Core i5 13th,109994.0
+Lenovo,14.0,Grey,16,1000.0,Intel Iris Xe,Intel Core i7 13th,91990.0
+Lenovo,15.3,Grey,8,512.0,Integrated,AMD Ryzen 7 Thin,64990.0
+Lenovo,15.3,Grey,32,1000.0,Integrated,Intel Core i5 13th,147990.0
+HP,14.0,Blue,32,1000.0,Integrated,Intel Core i5 13th,180999.0
+ASUS,14.0,Gray,32,1000.0,Integrated,Intel Core i5 13th,239990.0
+SAMSUNG,15.9,Gray,16,512.0,Integrated,Intel Core i5 13th,155990.0
+Lenovo,14.0,Silver,16,1000.0,Integrated,Intel Core i5 13th,122990.0
+FUJITSU,27.0,Silver,16,512.0,Intel Iris Xe,Intel Core i5 13th,104490.0
+acer,15.6,Black,8,1000.0,NVIDIA GTX,Intel Core i5 11th,89999.0
+DELL,15.6,Black,8,512.0,Integrated,Intel Core i3 12th,38990.0
+SAMSUNG,15.5,Gray,16,1000.0,Integrated,Intel Core i5 13th,138990.0
+DELL,16.3,Silver,32,1000.0,Integrated,Intel Core i5 13th,379899.0
+Lenovo,16.0,Grey,16,1000.0,Intel Iris Xe,Intel Core i5 13th,73990.0
+Apple,16.2,Silver,24,512.0,Integrated,Intel Core i5 13th,234990.0
+Apple,14.2,Grey,8,512.0,Integrated,Intel Core i5 13th,109994.0
+acer,14.0,Blue,16,1000.0,Integrated,Intel Core i5 13th,104990.0
+DELL,16.3,Silver,32,1000.0,Integrated,Intel Core i5 13th,327199.0
+SAMSUNG,14.0,Gray,16,1000.0,Integrated,Intel Core i5 13th,145990.0
+SAMSUNG,14.0,Gray,16,512.0,Integrated,Intel Core i5 13th,139990.0
+SAMSUNG,14.0,Gray,32,1000.0,Integrated,Intel Core i5 13th,171990.0
+DELL,15.6,Silver,16,512.0,Integrated,Intel Core i5 13th,61990.0
