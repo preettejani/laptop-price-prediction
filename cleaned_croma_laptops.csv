@@ -1,0 +1,474 @@
+Brand,Screen Size,Color,RAM,Storage,GPU,CPU,Price
+Apple,13.3,Gray,8,256.0,Integrated,M1,54490.0
+Apple,13.3,Gold,8,256.0,Integrated,M1,54490.0
+Apple,13.3,Silver,8,256.0,Integrated,M1,54490.0
+Apple,14.2,Black,24,512.0,Integrated,M4 Pro,187990.0
+Apple,13.6,Silver,16,256.0,Integrated,M4,93990.0
+ASUS,15.6,SIlver,16,16.0,Integrated,M1,44990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,Intel Core,53890.0
+Lenovo,15.6,Silver,16,512.0,Integrated,AMD Ryzen,41990.0
+acer,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen,61999.0
+HP,15.6,Blue,16,1000.0,NVIDIA GeForce,AMD Ryzen,98990.0
+Dell,15.6,Silver,16,512.0,Integrated,Intel Core,55990.0
+Lenovo,14.0,Grey,16,1000.0,Integrated,Intel Core,80990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,AMD Ryzen,32990.0
+Lenovo,14.0,Silver,16,512.0,Integrated,AMD Ryzen,62490.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,35999.0
+Lenovo,15.3,Grey,16,512.0,Integrated,Intel Core,66990.0
+Apple,13.6,Blue,16,256.0,Integrated,M4,93990.0
+DELL,15.6,Silver,16,1000.0,Integrated,Intel Core,61990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core,32990.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core,59990.0
+Lenovo,15.3,Grey,16,512.0,Integrated,Intel Core,60990.0
+Apple,13.6,Silver,16,256.0,Integrated,M4,93990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core,56499.0
+Apple,14.2,Black,16,512.0,Integrated,M4,159990.0
+Apple,13.6,Silver,16,256.0,Integrated,M2,80990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core,72490.0
+Lenovo,14.0,Grey,16,512.0,Integrated,Intel Core,70990.0
+Apple,13.6,Silver,16,512.0,Integrated,M4,112990.0
+Lenovo,13.3,Grey,16,512.0,Integrated,AMD Ryzen,62990.0
+ASUS,14.0,Black,8,512.0,Integrated,AMD Ryzen,29990.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core,65990.0
+Lenovo,15.6,Grey,12,512.0,NVIDIA GeForce,Intel Core,63990.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core,39999.0
+HP,14.0,Silver,16,512.0,Integrated,m0,43499.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen,64990.0
+HP,15.6,Silver,8,512.0,Integrated,AMD Ryzen,39990.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core,61990.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core,54990.0
+Lenovo,14.0,Grey,16,1000.0,Integrated,Intel Core,67990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen,68490.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,Intel Core,91290.0
+Apple,13.6,Blue,16,512.0,Integrated,M4,112990.0
+HP,15.6,Silver,16,512.0,Integrated,AMD Ryzen,51490.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core,56499.0
+HP,15.6,Silver,16,512.0,NVIDIA Geforce,Intel Core,69990.0
+ASUS,16.0,Gray,16,512.0,NVIDIA GeForce,Intel Core,69990.0
+Lenovo,15.6,Grey,12,512.0,NVIDIA GeForce,AMD Ryzen,62990.0
+acer,15.6,Gray,16,512.0,Integrated,AMD Ryzen,45999.0
+ASUS,15.6,Black,16,512.0,Integrated,AMD Ryzen,39990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,36999.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core,76990.0
+DELL,15.6,Black,8,512.0,Integrated,Intel Core,38990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen,78990.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core,52490.0
+Apple,13.6,Silver,16,256.0,Integrated,M4,93990.0
+Lenovo,16.0,Grey,16,512.0,Integrated,Intel Core,69990.0
+Lenovo,14.0,Grey,24,1000.0,Integrated,AMD Ryzen,85990.0
+HP,15.6,Silver,12,512.0,Integrated,Intel Core,37499.0
+ASUS,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen,75490.0
+HP,15.6,Blue,16,512.0,Intel Iris Xe,Intel Core,69499.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core,122990.0
+acer,14.0,Silver,16,1000.0,Integrated,Intel Core,89999.0
+DELL,13.3,Silver,16,512.0,Integrated,Intel Core,76490.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,Intel Core,64990.0
+HP,15.6,SIlver,16,512.0,NVIDIA GeForce,AMD Ryzen,61490.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,62990.0
+Lenovo,15.6,Silver,8,512.0,Integrated,AMD Ryzen,38990.0
+Apple,13.6,Silver,16,512.0,Integrated,M4,112990.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core,57999.0
+MSI,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core,74990.0
+ASUS,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core,78990.0
+Acer,14.0,Gray,16,512.0,Integrated,Intel Core,59990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen,68990.0
+ASUS,15.6,Silver,16,512.0,Integrated,Intel Core,41990.0
+HP,14.0,Silver,8,512.0,Integrated,Intel Core,36990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core,77999.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core,70990.0
+ASUS,15.6,Silver,8,512.0,Integrated,Intel Core,38990.0
+HP,14.0,Blue,16,512.0,Integrated,Intel Core,96999.0
+ASUS,16.0,Gray,16,512.0,NVIDIA GeForce,Intel Core,85990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen,65990.0
+HP,15.6,Silver,8,512.0,Integrated,AMD Ryzen,31499.0
+HP,16.0,Silver,16,1000.0,Integrated,Intel Core,71990.0
+Apple,13.6,Silver,16,512.0,Integrated,M4,112990.0
+Apple,13.6,Silver,16,512.0,Integrated,M4,112990.0
+acer,15.6,Gray,16,512.0,Integrated,AMD Ryzen,41999.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core,71990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen,58490.0
+Lenovo,14.0,Grey,32,1000.0,Integrated,Intel Core,112990.0
+HP,16.0,Black,24,1000.0,NVIDIA GeForce,m0,139990.0
+acer,15.6,Gray,8,512.0,Integrated,Intel Core,35990.0
+DELL,15.6,Gray,16,1000.0,Integrated,Intel Core,97990.0
+HP,14.0,Silver,8,512.0,Integrated,m0,32499.0
+HP,14.0,Blue,32,1000.0,Integrated,Intel Core,145999.0
+HP,16.0,Silver,16,512.0,Integrated,AMD Ryzen,58999.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core,39990.0
+DELL,15.6,Black,8,512.0,Integrated,Intel Core,54299.0
+acer,15.6,Gray,8,512.0,Integrated,AMD Ryzen,31999.0
+Lenovo,14.0,Grey,8,512.0,Integrated,Intel Core,38990.0
+Apple,13.6,Silver,16,256.0,Integrated,M2,80990.0
+Lenovo,15.6,Silver,8,512.0,Integrated,Intel Core,39990.0
+ASUS,14.0,Gray,16,512.0,Integrated,Intel Core,86990.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core,55999.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core,67990.0
+ASUS,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core,109990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core,81290.0
+ASUS,14.0,Blue,16,1000.0,Integrated,Intel Core,98990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen,48990.0
+ASUS,14.0,Silver,16,512.0,Integrated,Intel Core,80990.0
+HP,14.0,Silver,16,512.0,Integrated,m0,104999.0
+HP,16.0,Silver,16,512.0,Integrated,AMD Ryzen,79999.0
+ASUS,14.0,Gray,16,512.0,Integrated,Intel Core,101990.0
+Lenovo,16.0,Grey,16,512.0,Integrated,Intel Core,64990.0
+Dell,14.0,Blue,16,512.0,Integrated,Intel Core,81990.0
+Lenovo,14.0,Grey,32,1000.0,Integrated,Intel Core,134990.0
+HP,14.0,Silver,16,512.0,Integrated,AMD Ryzen,64990.0
+HP,14.0,Blue,16,512.0,Integrated,m0,114999.0
+ASUS,15.6,Blue,8,512.0,Integrated,Intel Core,42990.0
+HP,13.3,Silver,16,512.0,Integrated,AMD Ryzen,78999.0
+HP,16.0,Silver,16,512.0,Integrated,AMD Ryzen,70990.0
+Lenovo,14.0,Silver,32,1000.0,Integrated,Intel Core,136990.0
+ASUS,14.0,Blue,32,1000.0,Integrated,Intel Core,130990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core,39990.0
+Lenovo,14.0,Grey,16,1000.0,Integrated,Intel Core,103990.0
+Lenovo,14.0,Silver,16,1000.0,Integrated,Intel Core,108990.0
+Apple,13.6,Silver,24,512.0,Integrated,M4,131990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen,47990.0
+HP,15.6,Silver,8,512.0,Integrated,AMD Ryzen,31490.0
+HP,16.0,Silver,16,512.0,Integrated,Intel Core,78500.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen,91990.0
+Lenovo,14.5,Blue,32,1000.0,Integrated,Intel Core,93990.0
+Apple,13.6,Grey,8,256.0,Integrated,M3,85994.0
+DELL,14.0,Blue,16,1000.0,Integrated,Intel Core,92990.0
+Apple,13.6,Silver,8,256.0,Integrated,M3,85994.0
+Apple,16.2,Black,36,1000.0,Integrated,M3,289994.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,Intel Core,71490.0
+Apple,14.2,Black,36,1000.0,Integrated,M3,259994.0
+ASUS,15.6,Silver,16,1000.0,Integrated,M1,48990.0
+DELL,15.6,Silver,16,512.0,Integrated,AMD Ryzen,45490.0
+HP,15.6,Silver,16,512.0,Integrated,AMD Ryzen,45990.0
+Apple,15.3,Silver,16,256.0,Integrated,M4,117490.0
+Apple,13.6,Silver,8,512.0,Integrated,M2,89994.0
+HP,15.6,Silver,24,1000.0,NVIDIA GeForce,Intel Core,104990.0
+MSI,15.6,Black,16,1000.0,NVIDIA GeForce,Intel Core,134990.0
+SAMSUNG,13.3,Grey,16,512.0,Integrated,Intel Evo,94990.0
+ASUS,14.0,Black,16,512.0,Radeon Graphics,AMD Ryzen,39990.0
+Apple,13.6,Silver,8,512.0,Integrated,M3,95994.0
+Apple,13.6,Silver,8,512.0,Integrated,M3,95994.0
+SAMSUNG,14.0,Gray,16,512.0,Integrated,Intel Core,131990.0
+acer,15.6,Grey,16,512.0,Integrated,AMD Ryzen,42990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,55994.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,Intel Core,63990.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core,144990.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core,84990.0
+HP,14.0,Silver,8,512.0,Integrated,M0,32499.0
+HP,14.0,Silver,8,512.0,Integrated,m0,39499.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,Intel Core,126490.0
+Apple,15.3,Silver,16,256.0,Integrated,M3,104994.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core,72990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,36490.0
+Apple,13.6,Blue,24,512.0,Integrated,M4,131990.0
+Apple,13.6,Silver,24,512.0,Integrated,M4,131990.0
+SAMSUNG,13.3,Grey,16,512.0,Integrated,Intel Evo,102990.0
+HP,15.6,Blue,16,4.0,NVIDIA GeForce,Intel Core,63990.0
+MSI,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core,66990.0
+Lenovo,15.6,Grey,12,512.0,NVIDIA GeForce,Intel Core,63490.0
+MSI,15.6,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen,69990.0
+ASUS,15.6,Silver,8,512.0,Integrated,Intel Core,34990.0
+Apple,14.2,Silver,8,1000.0,Integrated,M3,142994.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core,76990.0
+Microsoft,13.8,Silver,16,256.0,Integrated,Intel Core,113990.0
+MSI,15.6,Black,16,512.0,Integrated,Intel Core,64990.0
+SAMSUNG,15.5,Gray,16,512.0,Integrated,Intel Core,122990.0
+ASUS,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core,119990.0
+MSI,14.0,Gray,16,512.0,Integrated,Intel Core,95990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,56899.0
+acer,15.6,Black,16,512.0,NVIDIA GeForce,Intel Core,82990.0
+acer,15.6,Gray,8,512.0,Integrated,AMD Ryzen3,30990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,50499.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core,119990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,Intel Core,66490.0
+HP,16.1,Silver,16,512.0,NVIDIA GeForce,Intel Core,78990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,AMD Ryzen,59990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core,87999.0
+Apple,14.2,Black,36,1000.0,Integrated,M4,300990.0
+Apple,15.3,Silver,16,512.0,Integrated,M3,119994.0
+Dell,16.0,Blue,16,512.0,Integrated,Intel Core,69990.0
+HP,15.6,Blue,8,512.0,Radeon RX,AMD Ryzen,50990.0
+Apple,15.3,Grey,8,512.0,Integrated,M3,123994.0
+Apple,15.3,Grey,8,512.0,Integrated,M3,123994.0
+Apple,14.2,Grey,8,1000.0,Integrated,M3,142994.0
+Microsoft,13.8,Black,32,1000.0,Integrated,Intel Core,202990.0
+MSI,15.6,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen,77990.0
+ASUS,14.0,Blue,32,1000.0,Integrated,Intel Core,120990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,41490.0
+Apple,15.3,Silver,8,256.0,Integrated,M3,99994.0
+SAMSUNG,15.9,Gray,32,1000.0,Integrated,Intel Core,195990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,AMD Ryen,38490.0
+Apple,15.3,Silver,8,256.0,Integrated,M3,99994.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,72990.0
+Apple,15.0,Silver,8,256.0,Integrated,M2,99994.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,53490.0
+Apple,14.2,Black,18,1000.0,Integrated,M3 Pro,194994.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core,39490.0
+DELL,15.6,Black,8,512.0,Integrated,AMD Ryzen,41990.0
+acer,14.5,Black,16,1000.0,NVIDIA Geforce,Intel Core,139999.0
+ASUS,15.6,Silver,16,512.0,Integrated,Intel Core,58990.0
+ASUS,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core,102990.0
+Acer,16.0,Black,16,1000.0,NVIDIA GeForce,Intel Core,160190.0
+ASUS,14.0,Silver,16,512.0,Integrated,Intel Core,74990.0
+Apple,15.3,Grey,8,256.0,Integrated,M3,99994.0
+SAMSUNG,13.3,Grey,16,512.0,Integrated,Intel Evo,117990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,62990.0
+Lenovo,15.6,Grey,8,256.0,Integrated,Intel Celeron,25990.0
+acer,14.0,Blue,16,512.0,Integrated,Intel Core,89990.0
+MSI,15.6,Black,16,512.0,Integrated,Intel Core,74990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,36990.0
+DELL,14.0,Blue,16,512.0,Integrated,AMD Ryzen,61990.0
+Lenovo,14.0,Grey,16,1000.0,Integrated,Intel Core,68990.0
+DELL,15.6,Grey,8,8.0,Integrated,Intel Core,37990.0
+MSI,15.6,Black,16,512.0,NVIDIA GeForce,Intel Core,114990.0
+Microsoft,13.8,Silver,16,512.0,Integrated,Intel Core,131990.0
+Apple,15.0,Silver,8,512.0,Integrated,M2,114994.0
+Lenovo,14.0,Blue,8,512.0,Integrated,Intel Core,39499.0
+Apple,15.3,Silver,8,512.0,Integrated,M3,123994.0
+Apple,16.2,Black,18,512.0,Integrated,M3 Pro,189994.0
+Microsoft,15.0,Black,16,1000.0,Integrated,Intel Core,178990.0
+Microsoft,15.0,Black,16,512.0,Integrated,Intel Core,159990.0
+Microsoft,13.8,Silver,16,512.0,Integrated,Intel Core,150990.0
+acer,14.0,Silver,16,512.0,Integrated,Intel Core,79990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,77990.0
+Apple,15.3,Silver,8,512.0,Integrated,M3,123994.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core,65994.0
+Microsoft,13.8,Black,16,1000.0,Integrated,Intel Core,170990.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen,45790.0
+SAMSUNG,14.0,Gray,16,512.0,Integrated,Intel Core,139990.0
+Apple,15.3,Silver,8,512.0,Integrated,M3,123994.0
+Apple,13.3,Grey,8,256.0,Integrated,M1,80994.0
+Apple,16.2,Black,36,512.0,Integrated,M3 Pro,239994.0
+Microsoft,15.0,Silver,16,256.0,Integrated,Intel Core,139990.0
+HP,15.6,Silver,8,512.0,Integrated,Intel Core,37990.0
+Apple,15.3,Silver,16,256.0,Integrated,M4,117490.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen,84990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen,92990.0
+ASUS,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen,65990.0
+ASUS,15.6,Gray,16,512.0,NVIDIA GeForce,AMD Ryzen,82990.0
+ASUS,14.0,Silver,16,512.0,Integrated,Intel Core,62990.0
+HP,16.1,Black,16,1000.0,NVIDIA GeForce,AMD Ryzen,107990.0
+HP,15.6,Silver,16,512.0,Integrated,AMD Ryzen,43499.0
+ASUS,15.6,Blue,16,512.0,Integrated,Intel Core,55990.0
+ASUS,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core,92990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen,70990.0
+Lenovo,14.0,Grey,32,1000.0,Integrated,Intel Core,112990.0
+HP,14.0,Blue,16,512.0,Integrated,Intel Core,97999.0
+ASUS,15.6,Gray,16,1000.0,NVIDIA GeForce,Intel Core,104990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA Geforce,Intel Core,88490.0
+DELL,15.6,Silver,16,512.0,Integrated,Intel Core,70990.0
+ASUS,14.0,Silver,8,512.0,Integrated,AMD Ryzen,35990.0
+Dell,14.0,Blue,8,512.0,Integrated,Intel Core,40990.0
+DELL,15.6,Gray,16,512.0,Integrated,Intel Core,77990.0
+ASUS,15.6,Silver,16,1000.0,Integrated,Intel Core,71990.0
+HP,14.0,Silver,16,1000.0,Integrated,Intel Core,71990.0
+ASUS,15.6,Silver,8,512.0,Integrated,Intel Core,50990.0
+HP,14.0,Blue,16,512.0,Integrated,Intel Core,104999.0
+Apple,14.2,Silver,24,512.0,Integrated,M4 Pro,187990.0
+Apple,15.3,Silver,16,256.0,Integrated,M3,104994.0
+HP,15.6,Silver,16,512.0,Integrated,Intel Core,54999.0
+acer,15.6,Silver,8,512.0,Integrated,Intel Celeron,25990.0
+HP,15.6,Silver,8,512.0,NVIDIA GeForce,Intel Core,59000.0
+Lenovo,15.6,Black,8,512.0,NVIDIA GeForce,AMD Ryzen,59990.0
+ASUS,17.0,Black,16,512.0,NVIDIA GeForce,Intel Core,50990.0
+DELL,14.0,Blue,16,512.0,Integrated,AMD Ryzen,65990.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core,89990.0
+HP,15.6,Silver,8,512.0,Integrated,AMD Ryen,32990.0
+acer,16.0,Black,16,512.0,NVIDIA GeForce,Intel Core,115990.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core,159990.0
+Apple,15.3,Blue,16,512.0,Integrated,M4,136490.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen,41990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,114990.0
+Apple,15.3,Silver,16,512.0,Integrated,M4,136490.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Celeron,24990.0
+ASUS,14.0,Black,16,512.0,Integrated,AMD Ryzen,39990.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core,189990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,72990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core,79490.0
+Apple,13.6,Silver,24,512.0,Integrated,M3,109994.0
+Apple,15.3,Silver,16,512.0,Integrated,M4,136490.0
+ASUS,14.0,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen,184990.0
+Apple,15.3,Blue,24,512.0,Integrated,M4,155490.0
+ASUS,14.0,Silver,8,512.0,Integrated,AMD Ryzen,35990.0
+ASUS,16.0,Silver,16,512.0,Integrated,Intel Core,53990.0
+HP,16.1,Blue,16,1000.0,Integrated,AMD Ryzen,78990.0
+ASUS,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core,179990.0
+acer,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen,85990.0
+DELL,16.0,Silver,16,1000.0,NVIDIA GeForce,Intel Core,132399.0
+MSI,15.6,Black,16,512.0,NVIDIA GeForce,Intel Core,114990.0
+MSI,15.6,Black,16,512.0,NVIDIA GeForce,Intel Core,119990.0
+HP,15.6,Silver,16,512.0,Integrated,AMD Ryzen,42990.0
+MSI,16.0,Gray,16,1000.0,NVIDIA GeForce,Intel Core,158990.0
+HP,15.6,Blue,16,1000.0,NVIDIA GeForce,AMD Ryzen,84990.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,Intel Core,87990.0
+Lenovo,15.6,gray,16,1000.0,NVIDIA GeForce,Intel Core,196290.0
+acer,14.0,Silver,8,512.0,Integrated,Intel Core,41990.0
+Apple,14.2,Black,16,1000.0,Integrated,M4,178990.0
+Apple,13.6,Silver,8,256.0,Integrated,M2,74994.0
+Lenovo,15.6,Grey,24,512.0,NVIDIA GeForce,AMD Ryzen,68490.0
+Apple,13.6,Silver,8,256.0,Integrated,M3,85994.0
+Dell,14.0,Grey,16,512.0,Integrated,Intel Core,95999.0
+HP,15.6,Silver,24,1000.0,NVIDIA GeForce,AMD Ryzen,101990.0
+HP,14.0,Silver,16,512.0,Integrated,Intel Core,61990.0
+Lenovo,14.0,Grey,8,512.0,Integrated,Intel Core,53990.0
+Apple,16.2,Black,36,1000.0,Integrated,M4,328990.0
+DELL,16.0,Silver,16,1000.0,NVIDIA GeForce,Intel Core,137599.0
+HP,14.0,Gray,16,1000.0,Integrated,Intel Core,172999.0
+Lenovo,15.6,Grey,8,256.0,Integrated,Intel Celeron,25990.0
+Lenovo,14.0,Silver,16,1000.0,Integrated,Intel Core,82990.0
+Dell,14.0,Blue,16,512.0,Integrated,Intel Core,79490.0
+MSI,15.6,Black,16,512.0,Integrated,Intel Core,49990.0
+DELL,16.0,Silver,16,1000.0,NVIDIA GeForce,m1,176990.0
+HP,15.6,Blue,8,512.0,NVIDIA GeForce,Intel Core,55990.0
+acer,14.0,Gold,8,512.0,Integrated,AMD Ryzen,28990.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core,52990.0
+Lenovo,14.0,Grey,16,1000.0,Intel Iris Xe,Intel Core,83990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core,70990.0
+Lenovo,16.0,Grey,16,1000.0,Intel Iris Xe,Intel Core,72990.0
+Lenovo,16.0,Grey,16,1000.0,Integrated,Intel Core,65490.0
+ASUS,14.0,Blue,16,512.0,Integrated,Intel Core,69990.0
+ASUS,14.0,Gray,16,512.0,Integrated,Intel Core,86990.0
+HP,15.6,Blue,16,512.0,NVIDIA GeForce,Intel Core,66990.0
+ASUS,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core,74990.0
+Lenovo,14.0,Grey,16,1000.0,Intel Iris Xe,Intel Core,85990.0
+Apple,14.2,Black,24,1000.0,Integrated,M4,197490.0
+Lenovo,14.5,Blue,32,1000.0,Integrated,Intel Core,105990.0
+ASUS,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core,219990.0
+Dell,15.6,Gray,16,1000.0,NVIDIA GeForce,Intel Core,130490.0
+Apple,16.2,Silver,48,1000.0,Integrated,M4,375990.0
+Lenovo,14.0,Grey,8,512.0,Integrated,AMD Ryzen,32990.0
+Avita,14.1,Black,4,128.0,Integrated,Intel Celeron,16984.0
+Apple,16.2,Black,24,512.0,Integrated,M4 Pro,234990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core,34790.0
+HP,15.6,Silver,8,512.0,Radeon Graphics,AMD Ryzen,39490.0
+HP,15.6,Silver,16,512.0,NVIDIA GeForce,Intel Core,59990.0
+Acer,14.0,Silver,16,512.0,Integrated,AMD Ryzen,49999.0
+Apple,13.6,Silver,8,256.0,Integrated,M3,85994.0
+MSI,15.6,Black,16,1000.0,NVIDIA GeForce,Intel Core,125990.0
+ASUS,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core,69990.0
+Lenovo,15.6,Grey,16,512.0,NVIDIA GeForce,Intel Core,78990.0
+MSI,15.6,Black,16,512.0,NVIDIA GeForce,AMD Ryzen,138790.0
+MSI,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core,229990.0
+Apple,16.2,Black,48,512.0,Integrated,M4 Pro,272990.0
+Apple,15.3,Silver,24,512.0,Integrated,M4,155490.0
+HP,14.0,Silver,8,512.0,Integrated,Intel Core,68999.0
+DELL,13.4,Silver,16,512.0,Integrated,Intel Core,168899.0
+DELL,15.6,Black,16,512.0,Integrated,AMD Ryzen,47990.0
+ASUS,14.0,Silver,16,512.0,Integrated,Intel Core,99990.0
+DELL,15.6,Gray,8,512.0,NVIDIA GeForce,Intel Core,73990.0
+ASUS,16.0,Gray,32,2000.0,NVIDIA GeForce,Intel Core,359990.0
+Apple,14.2,Grey,16,1000.0,Integrated,M3,149994.0
+DELL,15.6,Black,8,512.0,Integrated,AMD Ryzen,39990.0
+Apple,15.3,Silver,16,512.0,Integrated,M4,136490.0
+ASUS,16.0,Black,32,2000.0,NVIDIA GeForce,Intel Core,424990.0
+HP,13.3,Silver,16,512.0,Integrated,AMD Ryzen,93999.0
+ASUS,13.3,Blue,16,1000.0,Integrated,Intel Core,105990.0
+Apple,14.2,Silver,16,512.0,Integrated,M4,159990.0
+MSI,16.0,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen,199990.0
+Lenovo,15.6,Grey,8,512.0,Radeon 610M,AMD Ryzen,42990.0
+Lenovo,14.0,Grey,24,1000.0,Integrated,AMD Ryzen,85990.0
+Apple,16.2,Silver,36,512.0,Integrated,M3 Pro,239994.0
+Apple,13.6,Silver,8,256.0,Integrated,M2,74994.0
+MSI,15.6,Black,16,1000.0,NVIDIA GeForce,Intel Core,117990.0
+acer,14.0,Silver,16,512.0,Integrated,Intel Core,79990.0
+Apple,14.2,Black,24,1000.0,Integrated,M4 Pro,225990.0
+HP,16.0,Blue,32,1000.0,Integrated,Intel Core,211999.0
+SAMSUNG,15.9,Gray,16,512.0,Integrated,Intel Core,163990.0
+ASUS,16.0,Gray,16,1000.0,NVIDIA GeForce,AMD Ryzen,229990.0
+Apple,13.6,Silver,16,256.0,Integrated,M3,85994.0
+Lenovo,15.6,Grey,8,512.0,Integrated,AMD Ryzen,37990.0
+Lenovo,15.6,Grey,8,256.0,Integrated,Intel Celeron,40490.0
+Apple,13.6,Grey,8,512.0,Integrated,M2,89994.0
+Lenovo,15.6,Grey,16,512.0,Integrated,AMD Ryzen,46490.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,87990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,AMD Ryzen,39990.0
+Apple,15.3,Silver,24,512.0,Integrated,M3,129994.0
+SAMSUNG,15.6,Gray,16,1000.0,Integrated,Intel Core,103990.0
+DELL,15.6,Black,8,512.0,Integrated,AMD Ryzen,32990.0
+Apple,13.6,Grey,8,512.0,Integrated,M3,95994.0
+Apple,15.3,Silver,8,256.0,Integrated,M3,99994.0
+ASUS,14.0,Gray,16,512.0,Integrated,Intel Core,80990.0
+Apple,14.2,Silver,36,1000.0,Integrated,M3,259994.0
+Apple,14.2,Silver,24,1000.0,Integrated,M4,197490.0
+Apple,16.2,Silver,36,1000.0,Integrated,M3,289994.0
+Apple,15.3,Grey,16,256.0,Integrated,M3,104994.0
+Lenovo,15.6,Grey,8,256.0,Integrated,Intel Celeron,25990.0
+Apple,14.2,Silver,36,1000.0,Integrated,M4,300990.0
+Apple,14.2,Silver,24,1000.0,Integrated,M4 Pro,225990.0
+Apple,13.6,Silver,8,512.0,Integrated,M3,95994.0
+HP,14.0,Blue,32,1000.0,Integrated,Intel Core,141990.0
+HP,14.0,Gray,32,1000.0,Integrated,Intel Core,180999.0
+Apple,15.3,Silver,24,512.0,Integrated,M4,155490.0
+HP,14.0,Silver,8,512.0,Integrated,Intel Core,37990.0
+ASUS,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core,259990.0
+HP,14.0,Silver,16,1000.0,Integrated,Intel Core,139999.0
+HP,15.6,Silver,16,512.0,Integrated,AMD Ryen,44990.0
+ASUS,16.0,Black,32,2000.0,NVIDIA GeForce,Intel Core,379990.0
+Apple,13.6,Silver,8,512.0,Integrated,M3,95994.0
+Microsoft,13.8,Black,16,512.0,Integrated,Intel Core,137990.0
+Apple,13.6,Silver,24,512.0,Integrated,M3,109994.0
+Microsoft,15.0,Silver,8,256.0,Intel Iris Xe,Intel Core,134990.0
+ASUS,16.0,Gray,32,1000.0,NVIDIA GeForce,Intel Core,299990.0
+Apple,13.6,Silver,8,512.0,Integrated,M2,89994.0
+Dell,14.0,Blue,16,512.0,Integrated,Intel Core,120599.0
+ASUS,14.0,Gray,32,2000.0,NVIDIA GeForce,AMD Ryzen,279990.0
+Microsoft,13.8,Black,16,512.0,Integrated,Intel Core,150990.0
+MSI,15.6,Black,16,512.0,Integrated,AMD Ryzen,49990.0
+Apple,16.2,Silver,48,1000.0,Integrated,M3,329994.0
+Apple,16.2,Silver,48,512.0,Integrated,M4 Pro,272990.0
+MSI,15.6,Gray,16,512.0,NVIDIA GeForce,Intel Core,74990.0
+Apple,13.6,Grey,24,512.0,Integrated,M3,109994.0
+Apple,15.3,Silver,16,256.0,Integrated,M4,117490.0
+Apple,15.3,Silver,24,512.0,Integrated,M3,129994.0
+Apple,14.2,Silver,16,1000.0,Integrated,M4,178990.0
+SAMSUNG,15.9,Gray,16,512.0,Integrated,Intel Core,149990.0
+SAMSUNG,13.3,Silver,16,1000.0,Intel Iris Xe,Intel Evo,133990.0
+Apple,16.2,Black,48,1000.0,Integrated,M4,375990.0
+DELL,14.0,Silver,8,1000.0,Intel Iris Xe,Intel Core,68790.0
+Apple,15.3,Silver,24,512.0,Integrated,M4,155490.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,122990.0
+Microsoft,13.8,Silver,16,512.0,Integrated,Intel Core,137990.0
+ASUS,14.0,Black,8,512.0,Integrated,AMD Ryen,29990.0
+Microsoft,15.0,Black,16,512.0,Intel Iris Xe,Intel Core,182990.0
+SAMSUNG,15.5,Gray,32,1000.0,Integrated,Intel Core,154990.0
+SAMSUNG,15.9,Gray,32,1000.0,Integrated,Intel Core,181990.0
+DELL,13.4,Silver,32,1000.0,Integrated,Intel Core,200499.0
+DELL,14.5,Silver,32,1000.0,Integrated,Intel Core,257999.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,122990.0
+Microsoft,13.5,Black,16,512.0,Intel Iris Xe,Intel Core,172990.0
+Lenovo,15.6,Grey,8,512.0,Integrated,Intel Core,47190.0
+Apple,16.2,Silver,36,1000.0,Integrated,M4,328990.0
+SAMSUNG,15.6,Gray,16,512.0,Integrated,Intel Core,114990.0
+Lenovo,13.3,Silver,16,1000.0,Intel Iris Xe,Intel Core,217790.0
+DELL,15.6,Silver,8,512.0,Integrated,Intel Core,39790.0
+Lenovo,15.6,Grey,8,512.0,Integrated,AMD Ryzen,36490.0
+MSI,15.6,Black,16,512.0,Integrated,AMD Ryzen,59990.0
+Dell,14.0,Blue,16,1000.0,Integrated,Intel Core,120599.0
+Dell,14.0,Blue,16,1000.0,Integrated,Intel Core,113499.0
+Apple,13.6,Silver,24,512.0,Integrated,M4,131990.0
+Microsoft,13.5,Silver,8,256.0,Intel Iris Xe,Intel Core,103990.0
+HP,15.6,Silver,16,512.0,Integrated,AMD R7,49990.0
+DELL,14.5,Silver,16,1000.0,Integrated,Intel Core,211099.0
+HP,13.3,Silver,16,512.0,Integrated,AMD Ryzen,87999.0
+MSI,16.0,Gray,16,512.0,Integrated,Intel Core,124990.0
+Apple,14.2,Silver,8,512.0,Integrated,M3,109994.0
+Lenovo,14.0,Grey,16,1000.0,Intel Iris Xe,Intel Core,91990.0
+Lenovo,15.3,Grey,8,512.0,Integrated,AMD Ryzen,64990.0
+Lenovo,15.3,Grey,32,1000.0,Integrated,Intel Core,147990.0
+HP,14.0,Blue,32,1000.0,Integrated,Intel Core,180999.0
+ASUS,14.0,Gray,32,1000.0,Integrated,Intel Core,239990.0
+SAMSUNG,15.9,Gray,16,512.0,Integrated,Intel Core,155990.0
+Lenovo,14.0,Silver,16,1000.0,Integrated,Intel Core,122990.0
+FUJITSU,27.0,Silver,16,512.0,Intel Iris Xe,Intel Core,104490.0
+acer,15.6,Black,8,1000.0,NVIDIA GTX,Intel Core,89999.0
+DELL,15.6,Black,8,512.0,Integrated,Intel Core,38990.0
+SAMSUNG,15.5,Gray,16,1000.0,Integrated,Intel Core,138990.0
+DELL,16.3,Silver,32,1000.0,Integrated,Intel Core,379899.0
+Lenovo,16.0,Grey,16,1000.0,Intel Iris Xe,Intel Core,73990.0
+Apple,16.2,Silver,24,512.0,Integrated,M4 Pro,234990.0
+Apple,14.2,Grey,8,512.0,Integrated,M3,109994.0
+acer,14.0,Blue,16,1000.0,Integrated,Intel Core,104990.0
+DELL,16.3,Silver,32,1000.0,Integrated,Intel Core,327199.0
+SAMSUNG,14.0,Gray,16,1000.0,Integrated,Intel Core,145990.0
+SAMSUNG,14.0,Gray,16,512.0,Integrated,Intel Core,139990.0
+SAMSUNG,14.0,Gray,32,1000.0,Integrated,Intel Core,171990.0
+DELL,15.6,Silver,16,512.0,Integrated,Intel Core,61990.0
